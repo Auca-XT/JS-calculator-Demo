@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: lightgrey;
+  color: #362b2b;
+  font-family: Arial, Helvetica, sans-serif;
+}
+div
+{
+  color: #065119;
+}
